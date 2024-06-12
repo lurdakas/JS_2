@@ -23,4 +23,3 @@ output.innerHTML = HTML;
 function displayElement(val) {
     return "<h3>" + val + "</h3>";
 }
-
