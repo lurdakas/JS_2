@@ -8,3 +8,15 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
         sans-serif;
 }
+
+#body{
+
+    background: repeating-linear-gradient(
+        to right,
+      #4d5065,
+      #4d5065 10px,
+      #767880 10px,
+      #767880 20px
+  );
+}
+  
